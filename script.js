@@ -1,0 +1,1 @@
+const text = "Front-End Web Developer";
